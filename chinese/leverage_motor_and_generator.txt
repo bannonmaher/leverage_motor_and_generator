@@ -1,10 +1,15 @@
+SELF-POWERED MOTOR AND GENERATOR
 自供电电动机和发电机
 
+INVENTOR JONATHAN BANNON MAHER
 发明者 JONATHAN BANNON MAHER
 
 
+TECHNICAL FIELD
 技术领域
 
+
+[0001] Embodiments of the invention relate to the fields of motors, generators, physics, engineering, and programming.
 [0001] 本发明的实施例涉及电动机，发电机，物理学，工程学和编程领域。
 
 ABSTRACT
@@ -13,7 +18,8 @@ ABSTRACT
 
 REFERENCE TO RELATED DOCUMENTS
 
-[0003] This application is provided the benefit and priority date of United States Patent and Trademark Office provisional patent applications 62/522,650, filed June 20th 2017 by inventor Jonathan Bannon Maher, 62/596,826, filed December 9th 2017 by inventor Jonathan Bannon Maher, and 62/645,071 filed March 19th, 2018 by inventor Jonathan Bannon Maher, which are incorporated herein in their entirety. 
+[0003] This application is provided the benefit and priority date of United States Patent and Trademark Office provisional patent applications 62/522,650, filed June 20th 2017 by inventor Jonathan Bannon Maher, 62/596,826, filed December 9th 2017 by inventor Jonathan Bannon Maher, and 62/645,071 filed March 19th, 2018 by inventor Jonathan Bannon Maher, which are incorporated herein in their entirety.
+
 BACKGROUND
 
 [0004] The majority of the proceeds from the licensing of this patent will be going to causes that support the well being of humanity, and your support in ensuring the patent is forever in every way as strong as possible, will be providing a service to all the world.
